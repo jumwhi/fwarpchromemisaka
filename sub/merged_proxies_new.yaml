@@ -445,7 +445,7 @@ proxies:
   sni: t.me/ripaojiedian
   type: trojan
   udp: true
-- name: United States_San Francisco_trojan_1130
+- name: None_None_trojan_1130
   network: ws
   password: eeb6823c-b926-4ea2-866a-5542edd26e59
   port: '443'
@@ -551,7 +551,7 @@ proxy-groups:
   - South Korea_Incheon_trojan_1127
   - Brazil_Salvador_vmess_1128
   - Hong Kong_None_trojan_1129
-  - United States_San Francisco_trojan_1130
+  - None_None_trojan_1130
   - South Korea_Chuncheon_trojan_1131
   - United States_Los Angeles_trojan_1132
   - United States_None_trojan_1133
@@ -608,7 +608,7 @@ proxy-groups:
   - South Korea_Incheon_trojan_1127
   - Brazil_Salvador_vmess_1128
   - Hong Kong_None_trojan_1129
-  - United States_San Francisco_trojan_1130
+  - None_None_trojan_1130
   - South Korea_Chuncheon_trojan_1131
   - United States_Los Angeles_trojan_1132
   - United States_None_trojan_1133
